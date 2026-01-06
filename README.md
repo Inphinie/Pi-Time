@@ -1,4 +1,3 @@
-**Pi-Time, time-standard**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Standard-Universal_Pi_Time-purple?style=for-the-badge&logo=clockify" alt="Standard">
